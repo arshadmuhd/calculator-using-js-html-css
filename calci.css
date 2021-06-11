@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(238, 231, 228);
+}
+.container{
+    padding-top: 100px;
+   
+}
+
+.main-body{
+    height: 407px;
+    width: 350px;
+    border: solid 3px;
+    margin-left: 500px;
+    background: skyblue;
+}
+
+.screen{
+    padding: 20px;
+}
+#display{
+    width: 312px;
+    height: 67px;
+    margin-left: -6px;
+    border: double ;
+    border-color: unset;
+    background-color:white;
+    font-weight: bold;
+    font-size: x-large;
+    color:rgb(16, 8, 87);
+}
+
+button{
+    width: 60px;
+    border-radius: 12px;
+    height: 60px;
+    font-family: revert;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+button:active{
+    transform: translateY(4px)
+}
+button:hover{
+    background-color: rgb(233, 232, 167);
+}
+
+.key-btn{
+    margin-left: 33.589px;
+}
+
