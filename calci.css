@@ -29,7 +29,7 @@ body{
     color:rgb(16, 8, 87);
 }
 
-button{
+.button-key{
     width: 60px;
     border-radius: 12px;
     height: 60px;
